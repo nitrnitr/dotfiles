@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/nitr/templ/if/lanctrl/lib/lanctrl'
+let g:netrw_dirhist_2='/home/nitr/templ/if/unit/lib/unit/preview'
+let g:netrw_dirhist_3='/home/nitr/templ/if/unit/lib/unit/snapshot'
+let g:netrw_dirhist_4='/home/nitr/templ/if/showCTRL/config'
