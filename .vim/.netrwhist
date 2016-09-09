@@ -1,6 +1,6 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/nitrnitr/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/bundler/gems/unit-4db240f990c7/lib'
-let g:netrw_dirhist_2='/Users/nitrnitr/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/bundler/gems/unit-4db240f990c7/lib/unit'
-let g:netrw_dirhist_3='/Users/nitrnitr/dev/ansible_playbooks/postgres/templates'
-let g:netrw_dirhist_4='/Users/nitrnitr/dev/templ/if/lanctrl/deploy'
+let g:netrw_dirhist_1='/Users/nitrnitr/dev/templ/if'
+let g:netrw_dirhist_2='/Users/nitrnitr/dev/templ'
+let g:netrw_dirhist_3='/Users/nitrnitr/dev/templ/if/dashboard'
+let g:netrw_dirhist_4='/Users/nitrnitr/dev/templ/if/dashboard/apps'
