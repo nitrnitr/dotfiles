@@ -12,7 +12,6 @@ Plug 'junegunn/fzf'
 Plug 'junegunn/fzf.vim'
 Plug 'junegunn/rainbow_parentheses.vim'
 Plug 'kristijanhusak/vim-hybrid-material'
-Plug 'mhinz/vim-startify'
 Plug 'scrooloose/nerdcommenter'
 Plug 'vim-ruby/vim-ruby'
 call plug#end()
@@ -40,8 +39,13 @@ set softtabstop=2
 set t_Co=256
 set tabstop=2
 set whichwrap=<,>,[,]
-colorscheme solarized
+"colorscheme solarized
 
+colorscheme base16-tomorrow-night
+
+if has("termguicolors")
+  set termguicolors
+endif
 
 "set statusline=%t[%{strlen(&fenc)?&fenc:'none'},%{&ff}]%h%m%r%y%=%c,%l/%L\ %P
 "set statusline+=%*
