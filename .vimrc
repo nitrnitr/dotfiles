@@ -7,6 +7,7 @@ Plug 'danro/rename.vim'
 Plug 'https://github.com/junegunn/vim-peekaboo'
 Plug 'https://github.com/tpope/vim-fugitive'
 Plug 'git://github.com/altercation/vim-colors-solarized.git'
+Plug 'https://github.com/lumiliet/vim-twig'
 Plug 'itchyny/lightline.vim'
 Plug 'junegunn/fzf'
 Plug 'junegunn/fzf.vim'
@@ -17,7 +18,6 @@ Plug 'vim-ruby/vim-ruby'
 call plug#end()
 
 autocmd! bufwritepost init.vim source %
-
 set autoindent
 set background=dark
 set clipboard=unnamed
